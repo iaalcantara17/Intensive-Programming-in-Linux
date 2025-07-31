@@ -1,0 +1,6 @@
+alice@example.com
+bob@thebuilder.com
+dale.mohit@njit.edu
+iaa48@njit.edu
+johnappleseed@apple.com
+teiklim@njit.edu

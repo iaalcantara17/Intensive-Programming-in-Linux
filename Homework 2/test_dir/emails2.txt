@@ -1,0 +1,4 @@
+bob@thebuilder.com
+johnappleseed@apple.com
+alice@example.com
+teiklim@njit.edu

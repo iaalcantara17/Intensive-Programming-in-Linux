@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.out
+a.out
+*.swp
+*.swo
+*.tmp
+core
+
+# Python (if any helpers)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+.history/
+
+# Misc
+.DS_Store

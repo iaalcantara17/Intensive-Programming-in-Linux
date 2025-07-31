@@ -1,0 +1,12 @@
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);
+	scanf("%d", &num);

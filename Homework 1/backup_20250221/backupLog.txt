@@ -1,0 +1,4 @@
+Backup Log - 20250221
+file1.txt -> file1.txt_20250221
+file2.txt -> file2.txt_20250221
+file3.txt -> file3.txt_20250221
