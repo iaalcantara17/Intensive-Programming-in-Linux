@@ -1,0 +1,8 @@
+# De-emphasize saved HTML snapshots from HW9 so they do not count in language stats
+"Homework 9/*.html" linguist-generated=true
+
+# Exclude Composer dependencies from language stats
+"Homework 9/vendor/**" linguist-vendored
+
+# (Optional) If PHP files aren’t detected properly
+*.php linguist-language=PHP
